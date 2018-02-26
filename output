@@ -1,0 +1,6 @@
+file: programs/ps.as assembled successfuly
+file: programs/myprog.as assembled successfuly
+file: programs/badpath-pass1.as errors were found. unable to assemble
+file: programs/badpath-pass2.as errors were found. unable to assemble
+file: programs/badpath-immedsize.as errors were found. unable to assemble
+file: programs/badpath-datasize.as errors were found. unable to assemble

@@ -1,0 +1,16 @@
+ASSEMBLER PROJECT  --  TOM SLUTSKY  -- 26/03/2017
+
+1. source files can be found in the "src" directory
+2. binary files can be foune in the "bin" directory
+3. in order to use the make command all source files must be inside the "src" folder. the "bin" folder will be created automatically.
+4. all the assebley language related files (.as, .ob, .en) can be found in the "programs" directory
+5. the binary file to run the project is named "assembler" and can be found in the main directory of the project so that the Termianl command "./assembler" will initiate it
+
+output examples:
+the output and err_log files are have been created by the Terminal commad:
+
+./assembler programs/ps programs/myprog programs/badpath-pass1 programs/badpath-pass2 programs/badpath-immedsize programs/badpath-datasize 1>output 2>err_log
+
+The stdout is redirected to the file "output" and the stderr is redirected to the file "err_log".
+
+

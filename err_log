@@ -1,0 +1,53 @@
+programs/badpath-pass1.as: error: line 18: Missing operand
+programs/badpath-pass1.as: error: line 21: Unkown target operand
+programs/badpath-pass1.as: error: line 27: Instruction does not match operands
+programs/badpath-pass1.as: error: line 33: Instruction does not match operands
+programs/badpath-pass1.as: error: line 36: Illegal instruction
+programs/badpath-pass1.as: error: line 39: Illegal instruction
+programs/badpath-pass1.as: error: line 45: Misplaced comma character
+programs/badpath-pass1.as: error: line 48: Unknown characters in expression
+programs/badpath-pass1.as: error: line 51: Unknown characters in expression
+programs/badpath-pass1.as: error: line 54: Unkown target operand
+programs/badpath-pass1.as: error: line 57: Unkown target operand
+programs/badpath-pass1.as: error: line 60: Unknown characters in expression
+programs/badpath-pass1.as: error: line 63: Unkown target operand
+programs/badpath-pass1.as: error: line 66: Unknown source operand
+programs/badpath-pass1.as: error: line 69: Duplicate labels were found.
+programs/badpath-pass1.as: error: line 75: Instruction does not match operands
+programs/badpath-pass1.as: error: line 78: Instruction does not match operands
+programs/badpath-pass1.as: error: line 81: Illegal characters at end of expression
+programs/badpath-pass1.as: error: line 84: Illegal characters in data parameter
+programs/badpath-pass1.as: error: line 90: Numeric value missing
+programs/badpath-pass1.as: error: line 93: Illegal characters in data parameter
+programs/badpath-pass1.as: error: line 96: Illegal characters in data parameter
+programs/badpath-pass1.as: error: line 99: Illegal characters in data parameter
+programs/badpath-pass1.as: error: line 102: Illegal characters in data parameter
+programs/badpath-pass1.as: error: line 108: Label's name cannot be an instruction
+programs/badpath-pass1.as: error: line 111: Label's name cannot be a register
+programs/badpath-pass1.as: error: line 114: Duplicate labels were found.
+programs/badpath-pass1.as: error: line 117: Illegal start of expression
+programs/badpath-pass1.as: warning: line 123: Meaningless label.
+programs/badpath-pass1.as: error: line 129: Duplicate labels were found.
+programs/badpath-pass1.as: warning: line 132: Meaningless label
+programs/badpath-pass1.as: error: line 138: Label is already extern, can't be an entry
+programs/badpath-pass1.as: error: line 141: Illegal instruction
+programs/badpath-pass1.as: error: line 144: Illegal instruction
+programs/badpath-pass1.as: error: line 150: Missing initiating string character
+programs/badpath-pass1.as: error: line 153: Illegal characters at end of string expression
+programs/badpath-pass1.as: error: line 159: Label is too long
+programs/badpath-pass1.as: error: line 162: numeral value missing
+programs/badpath-pass1.as: error: line 165: Illegal label's name
+programs/badpath-pass1.as: error: line 168: Illegal instruction
+programs/badpath-pass2.as: warning: line 13: Meaningless label
+programs/badpath-pass2.as: warning: line 16: Meaningless label.
+programs/badpath-pass2.as: error: line 22: Undeclared label as source operand
+programs/badpath-pass2.as: error: line 25: Undeclared label as target operand
+programs/badpath-pass2.as: error: line 28: Undeclared label as source operand
+programs/badpath-pass2.as: error: line 31: Undeclared label as target operand
+programs/badpath-pass2.as: error: line 34: Undefined entry
+programs/badpath-pass2.as: error: line 37: Undefined entry
+programs/badpath-pass2.as: error: line 40: Undefined entry
+programs/badpath-immedsize.as: error: line 19: Value is out of range for immediate value
+programs/badpath-immedsize.as: error: line 25: Value is out of range for immediate value
+programs/badpath-datasize.as: error: line 19: Value is out of range for data variable
+programs/badpath-datasize.as: error: line 25: Value is out of range for data variable
